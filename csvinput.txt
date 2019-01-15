@@ -1,0 +1,6 @@
+﻿StudID	Subject	Mark
+1	maths	50
+2	english	25
+1	english	41
+2	maths	26
+
